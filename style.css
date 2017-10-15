@@ -1,0 +1,10 @@
+img.media-object{
+  border: 1px solid rgb(221,221,221);
+  border-radius: 4px;
+}
+#description, #descriptionCam2, #descriptionCam3, #descriptionCam4, #descriptionCam5, #coments,#comentsCam2, #comentsCam3, #comentsCam4, #comentsCam5 {
+  margin-left:5px;
+}
+/*#coments {
+  margin-left:10px;
+}*/
